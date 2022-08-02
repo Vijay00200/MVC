@@ -1,4 +1,4 @@
-# MVC - Demo projectto learn MVC
+# MVC - Demo project to learn MVC
 ## MVCDemo 
 MVC project with Enity Framework with manually generated view based on Action methods
 
